@@ -1,1 +1,16 @@
 /* add CSS class and element and selectors here */
+
+body {
+
+  font-size: 300%;
+  background-color: blue;
+  
+}
+
+.erikaSampleClass
+{
+font-size: 200%;
+border: 10px dotted red;
+background-color: yellow;
+}
+
